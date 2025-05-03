@@ -1,5 +1,8 @@
 # SkeNotes - Zettelkasten-Datenbank
 
+## Einführung
+Das Programm wurde gerade neu überarbeitet und wird demnächst hochgeladen. Haben Sie bitte etwas Geduld.
+
 ## Handbuch
 
 ### Einführung
